@@ -7,6 +7,8 @@ public class OlaMundo {
         // na media ta levando 11 segundos para compilar o codigo com 8gb
         System.out.println("ta complicando")
         System.out.println("opa deu uma luz aqui");
+        // sai da perspectiva git no eclipse e voltei para java, vou dar uma editada
+        System.out.println("agora editado na perspc. java");
 
 
     }
