@@ -5,7 +5,7 @@ public class OlaMundo {
         // na media ta levando 11 segundos para compilar o codigo com 6gb
         // na media ta levando 16 segundos para compilar o codigo com 8gb
         // na media ta levando 11 segundos para compilar o codigo com 8gb
-
+        System.out.println("ta complicando")
 
 
     }
